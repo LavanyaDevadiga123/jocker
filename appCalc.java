@@ -28,8 +28,7 @@ public class appCalc extends Applat implements ActionListener
 		add(b1);
 		add(b2);
 		add(b3);
-		add(b4);
-		add(b5);
+		
 		
 		b1.addActionListener(this);
 		b2.addActionListener(this);
