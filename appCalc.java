@@ -35,7 +35,7 @@ public class appCalc extends Applat implements ActionListener
 		b3.addActionListener(this);
 		b4.addActionListener(this);
 		b5.addActionListener(this);
-		b6.addActionListener(this);
+		
 	}
 	public void ActionPerformed(ActionEvent e)
 	{
