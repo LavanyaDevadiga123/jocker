@@ -18,6 +18,7 @@ public class appCalc extends Applat implements ActionListener
 		b4=new Button("/");
 		b5=new Button("compute");
 		b6=new Button("clear");
+		b7=new Button("=");
 		txt1.setBounds(70,50,200,40);
 		b1.setBounds(60,100,100,40);
 		b2.setBounds(170,700,100,40);
